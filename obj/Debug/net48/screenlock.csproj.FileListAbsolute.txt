@@ -8,3 +8,14 @@ C:\Users\User\Downloads\EzLock\obj\Debug\net48\screenlock.AssemblyInfo.cs
 C:\Users\User\Downloads\EzLock\obj\Debug\net48\screenlock.csproj.CoreCompileInputs.cache
 C:\Users\User\Downloads\EzLock\obj\Debug\net48\ScreenLock.exe
 C:\Users\User\Downloads\EzLock\obj\Debug\net48\ScreenLock.pdb
+D:\.NET project\EzLock\bin\Debug\net48\ScreenLock.exe.config
+D:\.NET project\EzLock\bin\Debug\net48\ScreenLock.exe
+D:\.NET project\EzLock\bin\Debug\net48\ScreenLock.pdb
+D:\.NET project\EzLock\obj\Debug\net48\screenlock.csproj.AssemblyReference.cache
+D:\.NET project\EzLock\obj\Debug\net48\screenlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET project\EzLock\obj\Debug\net48\screenlock.AssemblyInfoInputs.cache
+D:\.NET project\EzLock\obj\Debug\net48\screenlock.AssemblyInfo.cs
+D:\.NET project\EzLock\obj\Debug\net48\screenlock.csproj.CoreCompileInputs.cache
+D:\.NET project\EzLock\obj\Debug\net48\screenlock.sourcelink.json
+D:\.NET project\EzLock\obj\Debug\net48\ScreenLock.exe
+D:\.NET project\EzLock\obj\Debug\net48\ScreenLock.pdb
